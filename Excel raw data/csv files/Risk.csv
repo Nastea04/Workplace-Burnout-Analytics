@@ -1,0 +1,5 @@
+﻿ID;Type;MinScore;MaxScore;Action
+1;Low;0;30;Maintain current productivity and wellbeing balance
+2;Medium;31;50;Monitor workload and optimize recovery practices
+3;High;51;80;Reduce operational pressure and improve workload distribution
+4;Critical;81;100;Immediate intervention and workload reassessment required
