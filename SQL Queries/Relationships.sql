@@ -2,10 +2,6 @@ USE WorkplaceBurnout;
 GO
 
 
-SELECT *
-FROM INFORMATION_SCHEMA.TABLE_CONSTRAINTS
-WHERE CONSTRAINT_TYPE = 'FOREIGN KEY';
-
 /*alternative import workflow*/
 ALTER TABLE Employees
 ADD CONSTRAINT FK_Employees_Departments
